@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SCARTAL
 - 👀 I’m interested in new ideas
 - 🌱 I’m currently learning back-end web development with python
-- 💞️ I’m looking to collaborate on python discord bots
+- 💞️ I’m looking to collaborate on python discord bots or django web sites
 - 📫 You can reach me via discord SCARTAL#2825
 
 <!---
