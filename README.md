@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SCARTAL
 - 👀 I’m interested in new ideas
-- 🌱 I’m currently learning back-end web development with python
-- 💞️ I’m looking to collaborate on python discord bots or django web sites
-- 📫 You can reach me via discord SCARTAL#2825
+- 🌱 I’m currently working with my team [SECTOR Team](https://sector-team.net/) on various projects
+- 💞️ I’m looking to collaborate with people for good ideas and plans
+- 📫 You can reach me via discord @SCARTAL
 
 <!---
 SCARTAL/SCARTAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
