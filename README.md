@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SCARTAL&fontSize=70)
+
+
 - 👋 Hi, I’m @SCARTAL
 - 👀 I’m interested in new ideas
 - 🌱 I’m currently working with my team [SECTOR Team](https://sector-team.net/) on various projects
