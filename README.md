@@ -8,7 +8,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=SCARTAL)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARTAL&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=SCARTAL&theme=tokyonight&no-frame=true&row=1" />
 
 ![snake](https://raw.githubusercontent.com/SCARTAL/SCARTAL/output/github-contribution-grid-snake.svg)
 
