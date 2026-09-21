@@ -6,6 +6,8 @@
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,react,tailwind,docker,linux,nginx,mysql,git,github,githubactions,cloudflare" />
 
+![Visitors](https://komarev.com/ghpvc/?username=SCARTAL)
+
 ![snake](https://raw.githubusercontent.com/SCARTAL/SCARTAL/output/github-contribution-grid-snake.svg)
 
 <!---
