@@ -22,7 +22,7 @@ jobs:
           base: header, activity, community, repositories
 
           config_display: large
-          config_timezone: Europe/Berlin
+          config_timezone: UTC
 
           plugin_languages: yes
           plugin_languages_limit: 8
