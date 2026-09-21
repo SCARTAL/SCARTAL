@@ -8,6 +8,8 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=SCARTAL)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SCARTAL&theme=tokyo-night&hide_border=true" />
+
 ![snake](https://raw.githubusercontent.com/SCARTAL/SCARTAL/output/github-contribution-grid-snake.svg)
 
 <!---
