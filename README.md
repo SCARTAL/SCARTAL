@@ -4,7 +4,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SCARTAL&theme=tokyonight)
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,react,tailwind,docker,linux,nginx,mysql,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,react,tailwind,docker,linux,nginx,mysql,git,github,githubactions,cloudflare" />
 
 ![snake](https://raw.githubusercontent.com/SCARTAL/SCARTAL/output/github-contribution-grid-snake.svg)
 
