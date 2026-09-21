@@ -3,6 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&lines=Hi,+I%27m+%40SCARTAL;I%27m+interested+in+new+ideas;I%27m+looking+for+new+projects" />
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SCARTAL&theme=tokyonight)
+
+![snake](https://raw.githubusercontent.com/SCARTAL/SCARTAL/output/github-contribution-grid-snake.svg)
+
 <!---
 - 👋 Hi, I’m @SCARTAL
 - 👀 I’m interested in new ideas
