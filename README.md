@@ -2,6 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&lines=Hi,+I%27m+%40SCARTAL;I%27m+interested+in+new+ideas;I%27m+looking+for+new+projects" />
 
+About me
+---------
+Backend Developer
+Django • React • Docker • Linux
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SCARTAL&theme=tokyonight)
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,react,tailwind,docker,linux,nginx,mysql,git,github,githubactions,cloudflare" />
