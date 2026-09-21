@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SCARTAL&fontSize=70)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&lines=Hi,+I%27m+%40SCARTAL;I%27m+interested+in+new+ideas;I%27m+looking+to+collaborate+with+people+for+good+ideas+and+plans" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&lines=Hi,+I%27m+%40SCARTAL;I%27m+interested+in+new+ideas;I%27m+looking+for+new+projects" />
 <!---
 - 👋 Hi, I’m @SCARTAL
 - 👀 I’m interested in new ideas
